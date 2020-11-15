@@ -1,0 +1,6 @@
+{
+  "inventory": [
+    { "sku": "001", "qty": 10, "name": "Pedigree Vital", "price": "17" },
+    { "sku": "002", "qty": 20, "name": "Formula Healty", "price": "19" }
+  ]
+}
